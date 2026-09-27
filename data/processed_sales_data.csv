@@ -1,0 +1,13 @@
+Order_ID,Date,Product,Category,Region,Sales,Quantity,Profit,Customer,Profit_Margin
+1001,2026-01-05,Laptop,Electronics,North,55000,2,8000,Amit,14.545454545454545
+1002,2026-01-08,Mouse,Electronics,South,1200,5,300,Neha,25.0
+1003,2026-01-12,Chair,Furniture,East,7500,3,1200,Rahul,16.0
+1004,2026-01-15,Keyboard,Electronics,West,2500,4,600,Priya,24.0
+1005,2026-01-20,Table,Furniture,North,12000,2,2000,Aman,16.666666666666664
+1006,2026-02-03,Monitor,Electronics,South,18000,2,3000,Riya,16.666666666666664
+1007,2026-02-10,Sofa,Furniture,East,35000,1,5000,Rohit,14.285714285714285
+1008,2026-02-14,Printer,Electronics,West,15000,2,2500,Anjali,16.666666666666664
+1009,2026-02-20,Desk,Furniture,North,18000,2,3500,Vikas,19.444444444444446
+1010,2026-02-25,Headphones,Electronics,South,5000,5,1000,Sneha,20.0
+1011,2026-03-02,Bookshelf,Furniture,East,9000,2,1500,Arjun,16.666666666666664
+1012,2026-03-08,Webcam,Electronics,West,7000,3,1200,Kavita,17.142857142857142
